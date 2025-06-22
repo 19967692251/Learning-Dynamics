@@ -1,2 +1,2 @@
-# Learing-Dynamics
+# Learning-Dynamics
 在MNIST上训练LeNet验证Learing Dynamics
