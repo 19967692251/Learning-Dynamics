@@ -1,2 +1,3 @@
 # Learning-Dynamics
 在MNIST上训练LeNet验证Learing Dynamics
+验证DPO中出现的Squeezing Effect
